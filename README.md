@@ -6,7 +6,7 @@ A simple, clean, and modern desktop application for daily prayer and spiritual r
 
 ## About The Project
 
-The Prayerbook App was built to provide a distraction-free way to access a curated collection of 24 written prayers. It is designed with simplicity and reverence in mind—like a digital prayer book.
+The Prayerbook App was built to provide a distraction-free way to access a curated collection of 24 written prayers. It is designed with simplicity and reverence.
 
 This app uses the same technology stack as the Journal and Bible apps and is packaged as a lightweight, cross-platform desktop application using Electron.
 
